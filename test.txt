@@ -1,4 +1,4 @@
 in branch1
-test changed, changed in master (after branch2)
+test changed, conflict resolved after merger
 new line
 this is in master branch
