@@ -1,4 +1,4 @@
 in branch1
-test changed
+test changed, changed in master (after branch2)
 new line
 this is in master branch
