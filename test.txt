@@ -2,3 +2,5 @@ in branch1
 test changed, conflict resolved after merger
 new line
 this is in master branch
+
+Hi Bob! -- bzimmer@ziclix.com
